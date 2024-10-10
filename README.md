@@ -52,4 +52,4 @@ This class represents individual wheat objects in the game:
 3. Run the `FarmGame.java` file.
 
 ## Author
-- **Brendan DiLeo** - 000879513
+- **Brendan Dileo** - 000879513
