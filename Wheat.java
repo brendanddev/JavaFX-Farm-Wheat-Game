@@ -1,4 +1,4 @@
-package assignmentFive_000879513;
+package wheatGame;
 
 /**
  * This class represents the secondary model class in the farm game. It makes up the wheat object, where each wheat object
