@@ -1,4 +1,4 @@
-package assignmentFive_000879513;
+package wheatGame;
 
 /**
  * This class represents the primary/main model class for the farm game. It consists of the majority of the game's logic,
@@ -14,7 +14,7 @@ package assignmentFive_000879513;
  * the wheat class.
  *
  *
- * @author BRENDAN DILEO, 000879513
+ * @author BRENDAN DILEO
  */
 public class Farm {
     // Instance Variables:
