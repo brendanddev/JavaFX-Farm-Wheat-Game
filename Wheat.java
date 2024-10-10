@@ -6,7 +6,7 @@ package wheatGame;
  * will contribute to the other model class (farm class). This class is used for encapsulating the wheat object, and
  * will be associated with the farm class, and farm game class.
  *
- * @author BRENDAN DILEO, 000879513
+ * @author BRENDAN DILEO
  */
 public class Wheat {
     // INSTANCE VARIABLES:
