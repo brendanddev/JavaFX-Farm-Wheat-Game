@@ -1,4 +1,4 @@
-package assignmentFive_000879513;
+package wheatGame;
 
 import javafx.animation.TranslateTransition;
 import javafx.application.Application;
@@ -29,7 +29,7 @@ import javafx.util.Duration;
  * later the look of each component individually. It will also have instance variables, and helper methods to contribute
  * to the game itself.
  * 
- * @author BRENDAN DILEO 000879513
+ * @author BRENDAN DILEO 
  */
 
 public class FarmGame extends Application {
